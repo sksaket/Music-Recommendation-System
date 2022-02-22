@@ -1,6 +1,6 @@
 # Music recommender system
 
-A **recommender** (or recommendation) **system** (or engine) is a filtering system which aim is to predict a rating or preference a user would give to an item, eg. a film, a product, a song, etc.
+A **recommender** (or recommendation) **system** (or engine) is a filtering system which aim is to predict a rating or preference a user would give to an item, eg. a film, a product, a song, etc. The Music Streaming service is flourishing. Services like Spotify, Apple Music and Google Play Music have changed the way music is consumed. With a worldwide selection of artists catalogues spanning more than a century, billions number of playlists and accessing music has never been easier. So basically a user’s experience of finding new music become harder than ever. And our goal is to solve this problem by augmenting a specific music stream’s content curation capabilities by means of its web api.
 
 <img width="300px" src="https://media.giphy.com/media/tqfS3mgQU28ko/giphy.gif" />
   
